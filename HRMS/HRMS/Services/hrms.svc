@@ -1,1 +1,0 @@
-﻿<%@ ServiceHost Language="C#" Debug="true" Service="HRMS.Services.hrms" CodeBehind="hrms.svc.cs" %>
