@@ -1,0 +1,20 @@
+﻿body {
+}
+
+.content {
+ 
+    width:80%;
+    height:100%;
+    margin: 10px auto;
+ 
+}
+.downloadbt {
+
+vertical-align:top;
+}
+
+.notifymsg{
+    text-align:center;
+    color:red;
+    font-size:14px;
+}
